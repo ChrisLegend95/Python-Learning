@@ -2,7 +2,7 @@ import tkinter as tk
 import tkinter.ttk as ttk
 import random
 
-global welcome
+
 def welcome():
     global root
     root = tk.Tk()
